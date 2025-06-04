@@ -1,6 +1,6 @@
 # Computation Cosmology
 
-### [1. Age of the Universe](https://github.com/AnshulJawale/Computational-Cosmology/blob/main/Age%20of%20the%20Universe.ipynb))
+### [1. Age of the Universe](https://github.com/AnshulJawale/Computational-Cosmology/blob/main/Age%20of%20the%20Universe.ipynb)
 - FLRW Metric
 - Hubble parameter
 - Age
