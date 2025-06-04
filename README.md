@@ -1,11 +1,11 @@
 # Computation Cosmology
 
-### 1. Age of the Universe
+### [1. Age of the Universe]("Age of the Universe.ipynb")
 - FLRW Metric
 - Hubble parameter
 - Age
 
-### 2. Distances in Csomology
+### [2. Distances in Csomology](Distances.ipynb)
 - Redshift
 - Horizons
     - Comoving Horizon
