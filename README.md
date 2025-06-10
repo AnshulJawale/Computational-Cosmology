@@ -5,7 +5,7 @@
 - Hubble parameter
 - Age
 
-### [2. Distances in Csomology](Distances.ipynb)
+### [2. Distances in Cosmology](Distances.ipynb)
 - Redshift
 - Horizons
     - Comoving Horizon
@@ -18,7 +18,7 @@
 - Horizons in a universe without dark energy $(\Omega_{\Lambda}=0)$ and without matter $(\Omega_m=0)$
 - Deceleration Parameter $q$
 
-### [3. $\Lambda \text{CDM}$ Model ](LCDM.ipynb)
+### [3. LCDM Model ](LCDM.ipynb)
 - Distance Modulus
 - Union 2.1 Supernovae data
 - Goodness of fit ($\chi^2$)
