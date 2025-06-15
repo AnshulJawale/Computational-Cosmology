@@ -27,5 +27,5 @@
 
 ### [4. w0waCDM Model](w0waCDM.ipynb)
 - CPL Parametrization
-- Formula for $Omega_{DE} when $w \neq -1$ 
+- Formula for $\Omega_{DE}$ when $w \neq -1$ 
 - Estimating $w_0$, $w_a$ and $\Omega_m$ using Union2.1 Supernovae Data
