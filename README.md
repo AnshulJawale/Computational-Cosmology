@@ -29,3 +29,10 @@
 - CPL Parametrization
 - Formula for $\Omega_{DE}$ when $w \neq -1$ 
 - Estimating $w_0$, $w_a$ and $\Omega_m$ using Union2.1 Supernovae Data
+
+### [5. CMB](CMB.ipynb)
+- Cosmic Microwave Background
+- FIRAS Data [https://lambda.gsfc.nasa.gov/]
+- Black body Spectrum for $T = 2.725$
+- Monopole Spectrum
+- Obtaining $T_{CMB}, \mu, y, G_0$ using MCMC on FIRAS Data
