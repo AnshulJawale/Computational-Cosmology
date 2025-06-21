@@ -20,7 +20,7 @@
 
 ### [3. LCDM Model ](LCDM.ipynb)
 - Distance Modulus
-- Union 2.1 Supernovae data
+- Union 2.1 Supernovae data [https://supernova.lbl.gov/union/]
 - Goodness of fit ($\chi^2$)
 - Fitting supernovae data to our $\Lambda CDM$ model
 - Monte-Carlo Markov-Chain sampling on $H_0$ and $\Omega_m$
