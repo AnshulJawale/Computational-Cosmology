@@ -36,3 +36,7 @@
 - Black body Spectrum for $T = 2.725$
 - Monopole Spectrum
 - Obtaining $T_{CMB}, \mu, y, G_0$ using MCMC on FIRAS Data
+
+### [6. Planck (2018)](Planck18/Planck18.ipynb)
+- Table 2 of [1807.06209](https://arxiv.org/abs/1807.06209) can be found [here](Planck18/Table2.png)
+- [Results](Planck18/table.pdf) reproduced using CLASS 
